@@ -9,4 +9,4 @@ Converteix l’ArrayList de l’exercici anterior en un HashSet i assegura’t q
 Recorre la llista amb un for i amb un iterador.
 
 ## How to run it
-Clone the repository or download the zip file and run it in your favorite IDE.# S1.S3-JavaCollections-Nivell1-Ex1
+Clone the repository or download the zip file and run it in your favorite IDE.
